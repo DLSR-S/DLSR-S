@@ -6,7 +6,7 @@
 </br>
 
 <div>
-  <h2> Somos semillas del mismo chile.  33 / ☠ 322 </h2>
+  <h2> Somos semillas del mismo chile. </h2>
   <ul>
     <li>🔭 Hola, actualmente trabajo en trading algoritmico usando USD/CNY </li>
     <li>🧐 Estudiando El quijote.</li>
