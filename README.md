@@ -7,7 +7,7 @@ Financial Analyst
 Finance professional with a strong analytical background and a passion for technology. Currently working in financial consulting, leveraging data analysis, risk assessment, and software development to optimize decision-making.
 
 * 🌍  I'm based in Mexico City
-* ✉️  You can contact me at [mau@tumalan.com](daniel.lorenzo.sr@outlook.com)
+* ✉️  You can contact me at [daniel.lorenzo.sr@outlook.com](daniel.lorenzo.sr@outlook.com)
 
 ### Socials
 
