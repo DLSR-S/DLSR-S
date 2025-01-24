@@ -1,21 +1,20 @@
+Hi 👋 My name is Mau Tumalan
+============================
 
-<a href="https://linkedin.com/in/dlsr">
-  <img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
-</a>
+Financial Analyst
+----------
 
-</br>
+Finance professional with a strong analytical background and a passion for technology. Currently working in financial consulting, leveraging data analysis, risk assessment, and software development to optimize decision-making.
 
-<div>
-  <h2> Somos semillas del mismo chile. </h2>
-  <ul>
-    <li>🔭 Hola, actualmente trabajo en trading algoritmico usando USD/CNY </li>
-    <li>🧐 Estudiando El quijote.</li>
-    <li>🎉 Me gustaría aprender Farsi.</li>
-  </ul>
-</div>
-  <ul>
-    <li>🔭 I’m currently working on algortimic trading using USD/CNY </li>
-    <li>🧐 Studying El quijote.</li>
-    <li>🎉 I would love to learn Farsi.</li>
-  </ul>
-</div>
+* 🌍  I'm based in Mexico City
+* ✉️  You can contact me at [mau@tumalan.com](daniel.lorenzo.sr@outlook.com)
+
+### Socials
+
+<p align="left"><a href="https://www.linkedin.com/in/daniel-lorenzo-sanchez/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Factus
+
+🔭 I’m currently working on algortimic trading using USD/CNY
+🧐 Studying El quijote.
+🎉 I would love to learn Farsi.
