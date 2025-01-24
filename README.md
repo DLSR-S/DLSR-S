@@ -13,7 +13,7 @@ Finance professional with a strong analytical background and a passion for techn
 
 <p align="left"><a href="https://www.linkedin.com/in/daniel-lorenzo-sanchez/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Factus
+### Facts
 
 * 🔭 I’m currently working on algortimic trading using USD/CNY
 * 🧐 Studying El quijote.
