@@ -15,6 +15,6 @@ Finance professional with a strong analytical background and a passion for techn
 
 ### Factus
 
-🔭 I’m currently working on algortimic trading using USD/CNY
-🧐 Studying El quijote.
-🎉 I would love to learn Farsi.
+* 🔭 I’m currently working on algortimic trading using USD/CNY
+* 🧐 Studying El quijote.
+* 🎉 I would love to learn Farsi.
