@@ -12,17 +12,19 @@ My passion for financial markets and data analysis drives my work, blending **fi
 [![Languages](https://skillicons.dev/icons?i=py,r,sql,vb)](https://skillicons.dev)
 
 ### 📊 Financial Platforms & Systems
-[![Platforms](https://skillicons.dev/icons?i=bloomberg)](https://skillicons.dev)
 - Kondor+
 - Fusion Risk
 - Bloomberg (BMC Course)
 - Excel (Advanced with VBA & Macros)
 
 ### 🗄️ Databases
-[![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps (Learning Stage)
-[![Cloud](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=linux,aws)](https://skillicons.dev)
+
+### ☁️ Framework (Learning Stage)
+[![Cloud](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
 ### 🗃️ Version Control
 [![Version Control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
