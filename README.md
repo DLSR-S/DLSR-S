@@ -1,20 +1,59 @@
-Sup my name is Daniel L. Sánchez R.
-============================
+# Daniel Lorenzo Sánchez Ramírez
+### Junior Consultant
+My passion for financial markets and data analysis drives my work, blending **financial modeling, risk management, and process optimization** with advanced technical skills to deliver actionable insights and solutions. Combining experience in **equity research, financial instruments replication**, and data-driven decision making, I thrive at the intersection of finance and technology.
+* 🌍 I'm based in **Naucalpan, Edo. Méx, Mexico**
+* 💼 Currently working at **TCM Partners** as Junior Consultant (Front Office & Risk)
+* ✉️ You can contact me at [daniel.lorenzo.sr@outlook.com](mailto:daniel.lorenzo.sr@outlook.com)
 
-Financial Analyst
-----------
+---
+## 🛠️ Tech Stack
 
-Finance professional with a strong analytical background and a passion for technology. Currently working in financial consulting, leveraging data analysis, risk assessment, and software development to optimize decision-making.
+### 💻 Languages & Analysis Tools
+[![Languages](https://skillicons.dev/icons?i=py,r,sql,vb)](https://skillicons.dev)
 
-* 🌍  I'm based in Mexico City
-* ✉️  You can contact me at [daniel.lorenzo.sr@outlook.com](daniel.lorenzo.sr@outlook.com)
+### 📊 Financial Platforms & Systems
+[![Platforms](https://skillicons.dev/icons?i=bloomberg)](https://skillicons.dev)
+- Kondor+
+- Fusion Risk
+- Bloomberg (BMC Course)
+- Excel (Advanced with VBA & Macros)
 
-### Socials
+### 🗄️ Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
 
-<p align="left"><a href="https://www.linkedin.com/in/daniel-lorenzo-sanchez/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### ☁️ Cloud & DevOps (Learning Stage)
+[![Cloud](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
-### Facts
+### 🗃️ Version Control
+[![Version Control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+---
+### 📈 Areas of Expertise
+- **Equity Research & Financial Analysis**
+- **Market Data Analysis & Risk Management**
+- **Financial Instrument Replication (Derivatives, Bonds)**
+- **Process Automation in Treasury Operations**
+- **Financial Modeling & Forecasting**
 
-* 🔭 I’m currently working on algortimic trading using USD/CNY
-* 🧐 Studying El quijote.
-* 🎉 I would love to learn Farsi.
+---
+### 🌐 Socials
+<p align="left"><a href="https://www.linkedin.com/in/daniel-lorenzo-sanchez" target="_blank" rel="noreferrer"> 
+<picture> 
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+</picture> 
+</a></p>
+
+---
+### 📊 GitHub Stats
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/DLSR-S"><img src="https://github-readme-stats.vercel.app/api?username=DLSR-S&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DLSR-S GitHub stats" /></a>
+
+---
+### 💼 Personal Projects
+- **Financial Data Analysis with Python & R**
+- **Market Data Processing Automation Mexican Equity Market (FragiBot)**
+- **Licitation Analysis Automatization (Licibot)**
+
+---
