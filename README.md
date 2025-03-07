@@ -19,7 +19,7 @@ My passion for financial markets and data analysis drives my work, blending **fi
 - Excel (Advanced with VBA & Macros)
 
 ### 🗄️ Databases
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps (Learning Stage)
 [![Cloud](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
