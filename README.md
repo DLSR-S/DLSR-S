@@ -2,7 +2,7 @@
 ### Junior Consultant
 My passion for financial markets and data analysis drives my work, blending **financial modeling, risk management, and process optimization** with advanced technical skills to deliver actionable insights and solutions. Combining experience in **equity research, financial instruments replication**, and data-driven decision making, I thrive at the intersection of finance and technology.
 * 🌍 I'm based in **Mexico City, Mexico**
-* 💼 Currently working at **TCM Partners** as Junior Consultant (Front Office & Risk)
+* 💼 Currently not working
 * ✉️ You can contact me at [daniel.lorenzo.sr@outlook.com](mailto:daniel.lorenzo.sr@outlook.com)
 
 ---
