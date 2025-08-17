@@ -54,8 +54,8 @@ My passion for financial markets and data analysis drives my work, blending **fi
 
 ---
 ### 💼 Personal Projects
+- **Licibot | Licitation Analysis Automatization**
+- **Azáz | Market Data Processing Automation Mexican Equity Market**
 - **Financial Data Analysis with Python & R**
-- **Market Data Processing Automation Mexican Equity Market (FragiBot)**
-- **Licitation Analysis Automatization (Licibot)**
 
 ---
