@@ -1,4 +1,4 @@
-# Daniel Lorenzo Sánchez Ramírez
+# Daniel L. Sánchez R.
 ### Financial Analyst
 My passion for financial markets and data analysis drives my work, blending **financial modeling, risk management, and process optimization** with advanced technical skills to deliver actionable insights and solutions. Combining experience in **equity research, financial instruments replication**, and data-driven decision making, I thrive at the intersection of finance and technology.
 * 🌍 I'm based in **Mexico City, Mexico**
